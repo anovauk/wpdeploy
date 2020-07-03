@@ -1,0 +1,8 @@
+{
+    "require": {
+        "sentry/sdk": "^2.0",
+        "phalcon/incubator": "^3.4",
+        "gufy/cpanel-whm": "^1.0",
+        "ircmaxell/random-lib": "^1.2"
+    }
+}

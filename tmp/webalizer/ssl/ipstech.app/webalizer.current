@@ -1,0 +1,375 @@
+# Webalizer V2.23-08 Incremental Data - 01/26/2020 03:50:54
+2020 1 26 3 50 54
+378 347 34 29 24 25 8827618 130 26 0
+1 1 208 15 26
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+208 178 1678351 3 95 4
+41 41 2019494 15 5 5
+29 29 1478809 7 5 5
+12 12 723018 4 0 0
+2 2 4936 2 2 2
+9 9 553714 1 0 0
+10 10 542329 3 0 0
+3 3 0 3 3 3
+46 45 911744 4 17 4
+16 16 915223 3 1 1
+1 1 0 1 1 1
+1 1 0 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 0 1
+3 3 4936 3
+3 3 4936 3
+5 5 175884 2
+52 51 1273253 17
+222 192 2401369 97
+9 9 553714 0
+24 24 1468937 0
+9 9 553714 0
+1 1 4936 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 7 366445 1
+0 0 0 0
+0 0 0 0
+1 1 0 1
+6 6 192205 0
+1 1 0 1
+7 7 366445 0
+24 24 1446036 0
+3 3 14808 3
+0
+0
+0
+347
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+19
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/public/bower_components/bootstrap-table/dist/bootstrap-table.min.css
+0 21 0 157950 0 0
+/public/bower_components/bootstrap/dist/css/bootstrap.min.css
+0 21 0 2871270 0 0
+/home/addServer
+0 1 0 8558 0 0
+/home/addAccount
+0 6 0 47460 0 0
+/home/manageEnvironments
+0 7 0 93583 1 0
+/public/bower_components/popper.js/dist/umd/popper.min.js
+0 28 0 488911 0 0
+/home/editPluginPackage
+0 2 0 15180 0 0
+/home/wordpressPlugins
+0 5 0 39170 0 0
+/favicon.ico
+0 90 0 444240 0 0
+/home/editWordpressPlugin
+0 1 0 7299 0 0
+/api/deployWordpress
+0 1 0 82 0 0
+/home/pluginPackages
+0 3 0 21927 0 0
+/api/syncWordpress
+0 2 0 146 0 0
+/home/server
+0 5 0 37735 0 0
+/public/bower_components/bootstrap/dist/js/bootstrap.min.js
+0 28 0 1440240 0 0
+/home/users
+0 6 0 47895 0 0
+/images/tarek-correa-2mV2ibHWWTk-unsplash.jpg
+0 9 0 44424 0 0
+/home
+0 9 0 58923 0 0
+/api/getEnvironment
+0 12 0 420 0 0
+/
+0 28 0 78976 25 7
+/home/account
+0 12 0 89895 0 0
+/public/bower_components/bootstrap-table/dist/bootstrap-table.min.js
+0 28 0 2662512 0 0
+/home/addPlan
+0 4 0 29332 0 1
+/robots.txt
+0 2 0 9872 0 0
+/home/addUser
+0 4 0 30596 0 0
+/home/plans
+0 7 0 51093 0 1
+/home/addWordpressPlugin
+0 1 0 7341 0 0
+/public/css/styles.css
+0 21 0 18252 0 0
+/index
+0 2 0 9872 0 0
+# End Of Table - urls
+# -sites- (monthly)
+180.163.220.68
+0 6 6 361509 0 0
+-
+scanner4.ispsystem.net
+0 2 2 9872 2 1579478036
+/
+crawl-66-249-66-133.googlebot.com
+0 3 3 175884 0 0
+-
+52.114.6.38
+0 2 2 9872 1 1579066587
+/
+181.215.75.116
+0 1 1 4936 1 1579253406
+/
+melia.onyphe.io
+0 1 1 4936 1 1579139240
+/
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com
+0 4 4 0 4 1579927625
+/
+171.13.14.16
+0 1 1 4936 1 1579189556
+/
+101.4.60.64
+0 6 6 192205 0 0
+-
+180.163.220.66
+0 3 3 102524 0 0
+-
+180.163.220.5
+0 3 3 169304 0 0
+-
+138.197.144.119
+0 1 1 0 1 1579659624
+/
+65.154.226.220
+0 27 27 1661142 0 0
+-
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com
+0 3 3 0 3 1580010654
+/
+ec2-107-22-33-44.compute-1.amazonaws.com
+0 2 2 9872 1 1579752134
+/
+Invalid
+0 6 6 361509 0 0
+-
+180.163.220.4
+0 2 2 319030 0 0
+-
+104.192.108.10
+0 4 4 229314 0 0
+-
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com
+0 1 1 0 1 1579672785
+/
+hn.kd.ny.adsl
+0 12 12 723018 0 0
+-
+91.241.19.38
+0 2 2 0 2 1579292194
+/
+crawl-66-249-64-29.googlebot.com
+0 3 3 73721 0 0
+-
+138.197.143.26
+0 1 1 0 1 1579659629
+/
+65.154.226.100
+0 9 9 553714 0 0
+-
+heath.onyphe.io
+0 1 1 4936 1 1579142094
+/
+crawl-66-249-64-28.googlebot.com
+0 4 4 292724 0 0
+-
+202-142-132-158.static.nbn.mel.aussiebb.net
+0 91 73 731607 2 1579066574
+/
+180.163.220.67
+0 7 7 475105 0 0
+-
+176.59.110.43
+0 34 33 525555 1 1579753729
+/home/users
+104.192.108.9
+0 2 2 132195 0 0
+-
+host217-36-14-45.in-addr.btopenworld.com
+0 124 112 1313189 2 1579752098
+/
+ec2-54-188-179-215.us-west-2.compute.amazonaws.com
+0 1 1 4936 1 1579304361
+/
+180.163.220.3
+0 3 3 18564 0 0
+-
+65.154.226.109
+0 6 6 361509 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com
+0 1 1 0 1 1580010654
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://ipstech.app/home/server
+0 17
+https://ipstech.app/home/editPlan
+0 3
+https://ipstech.app/home/plans
+0 13
+http://www.ipstech.app/
+0 12
+https://ipstech.app/home/manageEnvironments
+0 28
+https://ipstech.app/home/account
+0 35
+https://ipstech.app/home/addWordpressPlugin
+0 2
+https://ipstech.app/home/addServer
+0 2
+https://ipstech.app/home/editWordpressPlugin
+0 1
+https://ipstech.app/home/addAccount
+0 14
+https://ipstech.app/home/editAccount
+0 3
+http://ipstech.app/
+0 80
+https://ipstech.app/home/editPluginPackage
+0 4
+- (Direct Request)
+0 41
+https://ipstech.app/index
+0 8
+https://ipstech.app/home/addPlan
+0 8
+https://ipstech.app/
+0 44
+http://ipstech.app
+0 6
+https://ipstech.app/home/pluginPackages
+0 7
+https://ipstech.app/home
+0 20
+https://ipstech.app/home/addUser
+0 8
+https://serv.anova-host.co.uk:2087/
+0 1
+https://ipstech.app/home/users
+0 11
+https://ipstech.app/home/wordpressPlugins
+0 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+0 34
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36
+0 24
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 36
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mob
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 206
+Go-http-client/1.1
+0 9
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Mobile Saf
+0 6
+Slackbot 1.0 (+https://api.slack.com/robots)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:13.0) Gecko/20100101 Firefox/13.0.1
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 6
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

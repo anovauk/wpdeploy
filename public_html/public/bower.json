@@ -1,0 +1,24 @@
+{
+  "name": "Public",
+  "authors": [
+    "CRAIG-WORK-PC\\cmarc <cmarchant@staff.intelligentsiaprosperity.com>"
+  ],
+  "description": "Public View of Website",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-table": "^1.15.5",
+    "bootstrap": "^4.4.1",
+    "popper.js": "^1.16.0",
+    "toastr": "^2.1.3"
+  }
+}
