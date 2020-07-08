@@ -521,7 +521,9 @@ class ApiController extends ControllerBase {
             ]);
             $pluginPackageRel = $pluginPackageObj->getPluginPackageWordPressPluginRel();
             foreach($pluginPackageRel as $wpPlugins) {
-                $wpPluginList[] = $wpPlugins->getWordPressPlugin()->getWPSlug();
+                $wpSlug = $wpPlugins->getWordPressPlugin()->getWPSlug();
+                $gitRepository = $wpPlugins->getWordPressPlugin()->getGitRepository();
+                $wpPluginList[] = $gitRepository ? $gitRepository : $wpSlug;
             }
 
             // Now install the plugins
