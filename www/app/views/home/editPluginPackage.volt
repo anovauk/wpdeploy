@@ -20,7 +20,7 @@
       </select>
   </div>
 
-  <button type="submit" class="btn btn-primary">Update Plugin Package</button>
+  <button tywpe="submit" class="btn btn-primary">Update Plugin Package</button>
   
 </form>
 

@@ -4,6 +4,7 @@
 			<th>#</th>
 			<th>Wordpress Plugin Name</th>
 			<th>WP Slug</th>
+			<th>Git Repository</th>
 			<th>Actions</th>
 		</tr>
 	</thead>
@@ -13,6 +14,7 @@
 				<td>{{ plugin.getId() }}</td>
 				<td>{{ plugin.getDisplayName() }}</td>
 				<td>{{ plugin.getWPSlug() }}</td>
+				<td>{{ plugin.getGitRepository() }}</td>
 
 				<td>
 					<a href="{{ baseUrl }}home/editWordpressPlugin?id={{ plugin.getId() }}" data-toggle="tooltip" title="Edit Wordpress Plugin"><i class="fas fa-edit"></i><a>&nbsp;&nbsp;

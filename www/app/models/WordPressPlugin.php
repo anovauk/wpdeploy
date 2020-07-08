@@ -17,7 +17,8 @@ class WordPressPlugin extends Model {
         $this->hasMany(
             'id',
             'PluginPackageWordPressPluginRel',
-            'wordpress_plugin_id'
+            'wordpress_plugin_id',
+            'git_repository'
         );
 	}
 
@@ -42,5 +43,14 @@ class WordPressPlugin extends Model {
 		$this->wp_slug = $wp_slug;
 		return $this;
 	}
+
+    public function getGitRepository() {
+        return $this->git_repository;
+    }
+
+    public function setGitRepository($git_repository) {
+        $this->git_repository = $git_repository;
+        return $this;
+    }
 
 }
