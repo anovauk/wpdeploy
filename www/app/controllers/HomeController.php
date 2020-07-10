@@ -987,7 +987,7 @@ class HomeController extends ControllerBase {
         }
 
         // Grab all the wordpress plugins
-        $wordpressPlugins = WordpressPlugin::find();
+        $wordpressPlugins = WordPressPlugin::find();
         $this->view->wordpressPlugins = $wordpressPlugins;
 
     }
@@ -1133,7 +1133,7 @@ class HomeController extends ControllerBase {
             $wpSlug = $this->request->getPost("wpSlug");
 
             // Create a new Wordpress Plugin object
-            $plugin = new WordpressPlugin();
+            $plugin = new WordPressPlugin();
             $plugin->setDisplayName($displayName)
                 ->setWPSlug($wpSlug);
 

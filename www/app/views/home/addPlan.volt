@@ -2,12 +2,12 @@
 	
   <div class="form-group">
     	<label for="planName">Plan Name</label>
-    	<input type="text" class="form-control" name="planName" id="planName" aria-describedby="planNameHelp" placeholder="Enter the Plan Name" value="{{ planName }}">
+    	<input type="text" class="form-control" name="planName" id="planName" aria-describedby="planNameHelp" placeholder="Enter the Plan Name" value="">
   </div>
 
 	<div class="form-group">
     	<label for="whmPlanName">WHM Plan Name</label>
-    	<input type="text" class="form-control" name="whmPlanName" id="whmPlanName" aria-describedby="whmPlanNameHelp" placeholder="Enter the WHM Plan Name" value="{{ whmPlanName }}">
+    	<input type="text" class="form-control" name="whmPlanName" id="whmPlanName" aria-describedby="whmPlanNameHelp" placeholder="Enter the WHM Plan Name" value="">
   </div>
 
   <button type="submit" class="btn btn-primary">Add Account</button>

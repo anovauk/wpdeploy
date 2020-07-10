@@ -2,7 +2,7 @@
 	
   <div class="form-group">
     	<label for="packageName">Package Name</label>
-    	<input type="text" class="form-control" name="packageName" id="packageName" aria-describedby="packageNameHelp" placeholder="Enter the Package Name" value="{{ packageName }}">
+    	<input type="text" class="form-control" name="packageName" id="packageName" aria-describedby="packageNameHelp" placeholder="Enter the Package Name" value="">
   </div>
 
 	<div class="form-group">
